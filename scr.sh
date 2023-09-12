@@ -159,7 +159,7 @@ arch_fc_0375_0175.xml
 
 # mkdir $RESULT_PATH
 cd $RESULT_PATH
-mkdir dataset
+# mkdir dataset
 cd dataset
 
 for i in "${!archs[@]}"
